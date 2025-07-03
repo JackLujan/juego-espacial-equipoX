@@ -1,1 +1,1 @@
-Daño del láser: 12
+Daño del láser: 15
