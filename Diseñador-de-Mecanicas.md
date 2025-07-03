@@ -1,0 +1,1 @@
+se agrego la arma escopeta a la batalla
